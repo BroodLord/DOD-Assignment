@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  DOD Assignment.cpp
+C:\Users\debbi\Documents\GitHub\DOD Assignment\DOD Assignment.cpp(282,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\debbi\Documents\GitHub\DOD Assignment\DOD Assignment.cpp(283,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\debbi\Documents\GitHub\DOD Assignment\DOD Assignment.cpp(832,25): warning C4018: '<': signed/unsigned mismatch
+  DOD Assignment.vcxproj -> C:\Users\debbi\Documents\GitHub\DOD Assignment\DOD AssignmentDebug.exe
+  Copying DLLs & shaders...
